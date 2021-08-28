@@ -12,5 +12,5 @@ int main()
 		  {
 			std::cout<< input[i];
 		  }
-      cin.get();
+      return 0;
 }
